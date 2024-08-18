@@ -8,7 +8,7 @@ fn main() {
    // const MAX_VALUE = 12; // 编译报错：需要显示申明类型
 
     // 常量被定义后不能被修改
-    const MIN_VALUE: u8 = 1;
+    const MIN_VALUE: u8 = 1;2
     println!("{}", MIN_VALUE); // output=1
 
     // const MIN_VALUE: u8 = 2; // 编译报错
